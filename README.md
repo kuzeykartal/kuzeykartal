@@ -26,13 +26,13 @@ I am a design-oriented Frontend Developer based in Spain, passionate about creat
 ### 📁 Featured Projects
 - 🍷 **[Efendy Beer Cafe](https://efendybeercafe.com):** Multilingual business website for a restaurant.
 - 🍔 **[Efendy Street](https://efendystreet.com):** Modern branding and web presence for a local business.
-- 💄 **[Eslina Aesthetics](https://eslinaestetikguzellik.web.app):** Professional client project for a beauty center.
+- 💄 **[Eslina Aesthetics](https://eslinaestetikkirklareli.com):** Professional client project for a beauty center.
 - 💻 **[My Portfolio](https://kuzey-portfolio.web.app):** Interactive presentation of my work and skills.
 
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/kartal-kuzey-türkoğlu-371381140/)
+- 💼 [LinkedIn](www.linkedin.com/in/kuzeykartalturkoglu-371381400)
 - 🌐 [Portfolio Website](https://kuzey-portfolio.web.app)
 - 📧 [kkturkoglu@icloud.com](mailto:kkturkoglu@icloud.com)
 
