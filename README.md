@@ -32,7 +32,7 @@ I am a design-oriented Frontend Developer based in Spain, passionate about creat
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/kuzeykartalturkoglu-371381400)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kuzeykartalturkoglu-371381400)
 - 🌐 [Portfolio Website](https://kuzey-portfolio.web.app)
 - 📧 [kkturkoglu@icloud.com](mailto:kkturkoglu@icloud.com)
 
