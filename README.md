@@ -39,5 +39,8 @@ I am a design-oriented Frontend Developer based in Spain, passionate about creat
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuzeykartal&show_icons=true&theme=tokyonight" alt="Kuzey's GitHub Stats" />
+  <img src="https://kuzey-github-stats.vercel.app/api?username=kuzeykartal&show_icons=true&theme=tokyonight" alt="Kuzey's GitHub Stats" />
 </p>
+
+
+
